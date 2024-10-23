@@ -13,7 +13,7 @@ const {name, author} = require(join(__dirname, './package.json'));
 const {say} = cfonts;
 const rl = createInterface(process.stdin, process.stdout);
 
-say('𝐇𝐢𝐧𝐚 𝐁𝐨𝐭', {
+say('Raldx 𝐁𝐨t', {
   font: 'chrome',
   align: 'center',
   gradient: ['red', 'magenta']});
